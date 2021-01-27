@@ -14,7 +14,7 @@ export default {
   },
   'zh-cn': {
     barText: '博客',
-    postsTitle: '所有文章',
+    postsTitle: '所有文章zz',
     list: [
       {
         title: 'Apache Dolphin Scheduler(Incubating)将于2019.10在上海举行见面会',
